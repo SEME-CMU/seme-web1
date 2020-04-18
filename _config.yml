@@ -1,7 +1,7 @@
 title: SEME
 description: > # this means to ignore newlines until "baseurl:"
   Your description
-baseurl: "/seme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "seme-cmu.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
