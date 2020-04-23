@@ -1,26 +1,44 @@
 - title: Vikram Kamath
   name: Name-1
-  subtitle: PH.D. Student
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+  subtitle: PhD Student
+  img: vikram.png
+  thumbnail: vikram.png
+  alt: Picture of Vikram
   topic: Topic
   description: More Info
 
-- title: Eloísa Avila
+- title: Eloísa Ávila
   name: Name-2
   subtitle: Research Assistant
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+  img: eloisa.png
+  thumbnail: eloisa.png
+  alt: Picture of Eloísa
   topic: Topic
   description: More Info
 
 - title: Maya Greenholt
   name: Name-3
   subtitle: Research Assistant
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+  img: maya.png
+  thumbnail: maya.png
+  alt: Picture of Maya
   topic: Topic
   description: More Info
+
+- title: Amy Ogan
+  name: Name-1
+  subtitle: Thomas and Lydia Moran Assistant Professor of Learning Science
+  img: amy.png
+  thumbnail: amy.png
+  alt: Picture of Amy
+  topic: Thomas and Lydia Moran Assistant Professor of Learning Science
+  description: Description coming soon!
+
+- title: Tim Brown
+  name: Name-2
+  subtitle: Professor Engineering & Public Policy, and Electrical & Computer Engineering
+  img: tim.png
+  thumbnail: tim.png
+  alt: Picture of Tim
+  topic: Faculty Advisor
+  description: Description coming soon!
