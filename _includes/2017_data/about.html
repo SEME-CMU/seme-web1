@@ -13,13 +13,14 @@
                         {% for about_data in site.data.twenty_17.home_about_data %}
                             <li class="{{ about_data.inverted }}">
                                 <div class="timeline-image">
-                                    <img class="img-circle img-responsive" src="../css/2016_style/img/{{ about_data.img }}" alt="">
+                                    <img class="img-circle img-responsive" src="css/2016_style/img/{{ about_data.img }}" alt="">
                                 </div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
                                         <h4>{{ about_data.name }}</h4>
+                                         <h5>{{ about_data.conf }}</h5>
                                     </div>
-                                    <a href="{{ about_data.link }}" class="page-scroll btn btn-sm">Learn More</a>
+                                    <a href="{{ about_data.link }}" title="{{ about_data.name }}"  target="_blank" class="page-scroll btn btn-sm">Learn More</a>
                                 </div>
                             </li>
                         {% endfor %}

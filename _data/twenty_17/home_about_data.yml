@@ -1,19 +1,18 @@
+
+- inverted: timeline-inverted
+  img: icon-faq.jpeg
+  name: Designing a Human Centred Chatbot to Mentor Teachers in Developing Contexts
+  conf: HCIxB CHI Workshop ’20, Hawaii, USA
+  link: pdfs/Human Centred_Chatbot_to_Mentor_Teachers_in_Developing_Contexts.pdf
+
 - inverted: 
   img: icon-i.jpeg
-  name: Mission
-  link: /about
+  name: s
+  conf: ICTD 2020, Guayaquil, Ecuador
+  link: pdfs/DIA_A_Chatbot_Low_Resource_Context.pdf
 
 - inverted: timeline-inverted
-  img: icon-agenda.jpeg
-  name: Agenda
-  link: /agenda
-
-- inverted: 
   img: icon-team.jpeg
-  name: Team
-  link: /team
-
-- inverted: timeline-inverted
-  img: icon-venue.jpeg
-  name: Côte d'Ivoire
-  link: /venue
+  name: "I'm fine where I am, but I want to do more: Exploring Teacher Aspirations in Rural Cote D’Ivoire"
+  link: pdfs/Teacher_Aspirations.pdf
+  conf: ACM COMPASS 2020, Guayaquil, Ecuador
