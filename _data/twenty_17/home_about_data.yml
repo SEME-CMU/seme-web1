@@ -7,7 +7,7 @@
 
 - inverted: 
   img: icon-i.jpeg
-  name: s
+  name: "DIA: A Human AI Hybrid Conversational Assistant for Developing Contexts"
   conf: ICTD 2020, Guayaquil, Ecuador
   link: pdfs/DIA_A_Chatbot_Low_Resource_Context.pdf
 
