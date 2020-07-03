@@ -58,4 +58,6 @@ _Note: If you forked it and edited `_config.yml` via the online editor on Github
 - `_data/twenty_16/` and `_data/twenty_17/` contains `data` files for agenda, faqs, home about section data, speakers, and team members information. The data file is in the format of `.yml`. The reason why the folders are named `twenty_16` and `twenty_17` are due to liquid syntax will throw errors if the name contains integer. 
 - In order to view PDF correctly, sharing setting in Google Drive must set to "Public on the web".
 
+
+Look at _layouts 2017_home.html
 ## Enjoy!
